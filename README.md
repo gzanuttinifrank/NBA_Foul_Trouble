@@ -7,7 +7,7 @@ The file "poster.pdf" is a digital version of the poster that I made for my fina
 Contains the function that creates the Markov model for foul trouble mentioned above (this function does not take an input but requires data being loaded into the working environment beforehand).
 
 ### Data
-This data was taken from @sealneaward's repo. The files were unzipped into JSON files, and then parsed using the "sportvu_convert_json" function in data_parsing_helpers.R and saved as R data files.
+This player tracking data was taken from @sealneaward's repo. The files were unzipped into JSON files, and then parsed using the "sportvu_convert_json" function in data_parsing_helpers.R and saved as R data files.
 
 ### data_parsing_helpers.R
 Contains many functions for various purposes, including:
